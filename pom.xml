@@ -97,16 +97,17 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://18.237.199.146:8081/repository/maven-releases/</url>
+	      <url> http://35.89.171.149:8081/repository/Tesla_fl/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url> http://18.237.199.146:8081/repository/maven-snapshots/</url>
+	      <url> http://35.89.171.149:8081/repository/tesla_snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
+	
 	
 	<build>
 		<finalName>maven-web-app</finalName>
